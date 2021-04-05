@@ -12,7 +12,7 @@ using System.Linq;
 using System.Threading.Tasks;
 
 namespace HelloApp
-{
+{//Simple, comment
     public class Startup
 
 
