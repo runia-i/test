@@ -7,7 +7,7 @@ using System.Linq;
 using System.Threading.Tasks;
 
 
-namespace Shop.Date
+namespace Shop.Date //Commit test for git-Readme
 {
     public class AppDBContent: DbContext 
     {
